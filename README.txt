@@ -185,3 +185,20 @@ Le projet utilise :
 |---|---|
 | Membre 1 | Setup, Bronze, Silver, Tests qualité |
 | Membre 2 | Gold, Streamlit, Automatisation, README |
+
+## Résultats des visualisations
+
+### Analyse 1 - Top 10 des titres de postes les plus publiés par industrie
+![Résultat Analyse 1](analyse_1_titres.png)
+
+### Analyse 2 - Top 10 des postes les mieux rémunérés par industrie
+![Résultat Analyse 2](analyse_2_salaires.png)
+
+### Analyse 3 - Répartition des offres par taille d'entreprise
+![Résultat Analyse 3](analyse_3_taille.png)
+
+### Analyse 4 - Répartition des offres par secteur d'activité
+![Résultat Analyse 4](analyse_4_secteur.png)
+
+### Analyse 5 - Répartition des offres par type d'emploi
+![Résultat Analyse 5](analyse_5_type_emploi.png)
