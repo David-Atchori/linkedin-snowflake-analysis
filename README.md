@@ -199,6 +199,6 @@ Le projet implémente un pipeline automatisé complet :
 
 | Membre | Tâches |
 |--------|--------|
-| David ATCHOR | Étapes 1–8 : setup, Bronze, Silver, tests qualité |
-| Cédric DON - AGOH | Gold, automatisation  |
+| David ATCHORI | Étapes 1–8 : setup, Bronze, Silver, tests qualité |
+| Cédric Don-Agoh BOIMIN | Gold, automatisation  |
 | Eya  |  Streamlit, README  |
