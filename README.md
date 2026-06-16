@@ -201,4 +201,4 @@ Le projet implémente un pipeline automatisé complet :
 |--------|--------|
 | David ATCHORI | Étapes 1–8 : setup, Bronze, Silver, tests qualité |
 | Cédric Don-Agoh BOIMIN | Gold, automatisation  |
-| Eya  |  Streamlit, README  |
+| Eya ben REJEB |  Streamlit, README  |
